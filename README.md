@@ -1,4 +1,3 @@
-```markdown
 # Cryptographic Attack Implementation
 
 A practical exploration of real-world cryptographic vulnerabilities through implementation of four classic attacks: length extension, hash collisions, padding oracle, and RSA signature forgery.
@@ -116,25 +115,16 @@ All attacks successfully exploited their target vulnerabilities:
 - **Padding Oracle**: Complete plaintext recovery (3/3 test cases)
 - **Bleichenbacher**: Signature forgery accepted by server
 
-[Link to full write-up](https://docs.google.com/document/d/1hCx_eHPBH-sYVY0Ym51iir7rRGGr1V1UKNZgAFXsmHM/edit?usp=sharing)
 ---
 
 ## Repository Structure
 
-```
 ├── len_ext_attack.py      # Length extension implementation  
 ├── good.py                # Hash collision (benign version)  
 ├── evil.py                # Hash collision (malicious version)  
 ├── padding_oracle.py      # Padding oracle attack  
 ├── bleichenbacher.py      # RSA signature forgery  
 ├── pysha256.py           # Custom SHA-256 with state control  
-└── roots.py              # Arbitrary-precision arithmetic
-```
+└── roots.py              # Arbitrary-precision arithmetic  
 
-## Ethical Notice
-
-This work was completed in a controlled educational environment with explicit authorization. All techniques should only be used for:
-- Authorized security research and penetration testing
-- Defensive security analysis
-- Educational purposes in controlled environments
-```
+[Link to full write-up](https://docs.google.com/document/d/1hCx_eHPBH-sYVY0Ym51iir7rRGGr1V1UKNZgAFXsmHM/edit?usp=sharing)
