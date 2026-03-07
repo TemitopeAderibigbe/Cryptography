@@ -122,16 +122,14 @@ All attacks successfully exploited their target vulnerabilities:
 ## Repository Structure
 
 ```
-├── len_ext_attack.py      # Length extension implementation
-├── good.py                # Hash collision (benign version)
-├── evil.py                # Hash collision (malicious version)
-├── padding_oracle.py      # Padding oracle attack
-├── bleichenbacher.py      # RSA signature forgery
-├── pysha256.py           # Custom SHA-256 with state control
+├── len_ext_attack.py      # Length extension implementation  
+├── good.py                # Hash collision (benign version)  
+├── evil.py                # Hash collision (malicious version)  
+├── padding_oracle.py      # Padding oracle attack  
+├── bleichenbacher.py      # RSA signature forgery  
+├── pysha256.py           # Custom SHA-256 with state control  
 └── roots.py              # Arbitrary-precision arithmetic
 ```
-
----
 
 ## Ethical Notice
 
