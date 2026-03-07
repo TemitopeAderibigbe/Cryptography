@@ -1,0 +1,11 @@
+09f21169fe0f9f286480ab2e71789dbda20c0eaaf8f0ff841d731ca5f55174af13b417fa5474c4ce59023ccd0f6c8d0093eb6bb9f7b4fbbbebb1008320755ebb9ea126c05c6fbcc80de3b3bc5d4529799c05f20b9e794951f932446f184e1f86
+valid: The ciphertext is valid
+plaintext: The Dude: This aggression will not stand man.
+mac bytes: b'\xb5h\xe8\x96W-R.H\x8e\xd4!\x83\x95\xd9\xa1\x04\xaetyW\x07/\xe6padding bytes: b'\x03\x03\x03'
+
+
+223e33631644166104675d14cf518f6cbbf1eaf3f6e0cea62f1ef36dad15107b34819dbf0374c3eb173b6526b268c3e4a9ed0c676a37ef40664039e903fdeac010275dc9d3ff2ed0d6464d0ff84880312ce348d99f6af714183c1a9584473c34ec10ef19a81815b72ef2aa791443ef9d
+valid: The ciphertext is valid
+plaintext: T: She turned me into a newt! K: A newt? T: Well, I got better.
+mac bytes: b'h\xda\xd9\xe3\xf2\xbc>\xad\x97V\xc1%\xba@p\x9e\xaa\xf9v!y\x82\x0c\x14KGP"\xc6\x80\x9e\r'
+padding bytes: b'\x01'
